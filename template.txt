@@ -1,0 +1,4 @@
+namespace #name_space#
+public class ##file_name##
+{
+##data_member##}
